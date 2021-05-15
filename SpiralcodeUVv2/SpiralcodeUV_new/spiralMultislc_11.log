@@ -1,0 +1,58 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+{Index exceeds array bounds.
+
+Error in spiralUV_Nav2_11 (line 96)
+kdata =
+kdata(:,:,framesToDelete+1:numFramesToKeep+framesToDelete,cRatioI(1:nChannelsToChoose));} 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+{Error using reshape
+To RESHAPE the number of elements must not change.
+
+Error in spiralUV_Nav2_11 (line 89)
+kdata =
+reshape(kdata,[nFreqEncoding,ninterleavesPerFrame,numFrames,nChannelsToChoose]);} 
+>> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+last cuda error: no error
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 70) has relative residual 7e-05.
+{Matrix dimensions must agree.
+
+Error in crop (line 43)
+    if sum(m==s)==length(m)
+
+Error in giveEspiritMaps (line 24)
+calib = crop(DATA,[ncalib,ncalib],Nc);
+
+Error in spiralUV_Nav2_11 (line 117)
+csm=giveEspiritMaps(reshape(vcoilImages,[size(vcoilImages,1),
+size(vcoilImages,2), nChannelsToChoose]),0.015);
+} 
+>> 

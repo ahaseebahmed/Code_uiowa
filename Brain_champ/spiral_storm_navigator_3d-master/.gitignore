@@ -1,0 +1,10 @@
+*.txt
+*.log
+*.zip
+*~
+*.mat
+*.mexa64
+*.so
+build
+@ngfnRecon
+@gpuNUFFT

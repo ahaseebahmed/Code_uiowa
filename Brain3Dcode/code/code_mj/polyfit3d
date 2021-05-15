@@ -1,0 +1,26 @@
+
+sos = p3;
+[nx,ny,nz] = size(p3);
+[x,y,z] = meshgrid(-floor(nx/2):floor(nx/2)-1,-floor(ny/2):floor(ny/2)-1,-floor(nz/2):floor(nz/2)-1);
+x = x.*mask;
+y = y.*mask;
+z = z.*mask;
+
+A = [];
+order = 3
+for i=0:order
+    for j=0:order
+        for k=0:order
+             if(i+j+k<=order)
+             temp = (x(:).^i).*(y(:).^j).*(z(:).^k); 
+             A = [A,temp];
+             end
+        end
+    end
+end
+
+B = bsxfun(@times,A,abs(p3(:)));
+%B=A;
+%coeffs = pinv(B'*B)*(B'*p3(:));
+coeffs = pinv(B'*B)*(B'*ones(size(p3(:))));
+poly = reshape(A*coeffs,size(x));

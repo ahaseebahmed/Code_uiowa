@@ -1,0 +1,7 @@
+#!/bin/bash
+#$ -N Ahmedsp1
+#$ -o Ahmedsp1log
+#$ -j Y
+#$ -q CBIG -pe smp 12
+#$ -cwd
+/opt/apps/matlab/2018a/bin/matlab -nodisplay -nodesktop -nojvm -r spiralUV_24May2

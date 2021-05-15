@@ -1,0 +1,7 @@
+#!/bin/bash
+#$ -N Ahmedt3
+#$ -o Ahmedt3log
+#$ -j Y
+#$ -q UI-HM
+#$ -cwd
+/opt/apps/matlab/R2016b/bin/matlab -nodisplay -nodesktop -nojvm -r spiralUV_mj_t3

@@ -1,0 +1,303 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+
+i =
+
+     1
+
+note in nufft: could save flops via smarter padded FFT
+pcg stopped at iteration 40 without converging to the desired tolerance 0.0009
+because the maximum number of iterations was reached.
+The iterate returned (number 38) has relative residual 0.0021.
+Elapsed time is 727.776904 seconds.
+
+i =
+
+     2
+
+pcg converged at iteration 40 to a solution with relative residual 0.0008.
+Elapsed time is 710.003507 seconds.
+
+i =
+
+     3
+
+The initial guess has relative residual 0.0008 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 17.215426 seconds.
+
+i =
+
+     4
+
+The initial guess has relative residual 0.0008 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 16.885342 seconds.
+
+i =
+
+     5
+
+The initial guess has relative residual 0.0008 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 18.663754 seconds.
+
+i =
+
+     6
+
+The initial guess has relative residual 0.00081 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 14.956709 seconds.
+
+i =
+
+     7
+
+The initial guess has relative residual 0.00082 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 18.730723 seconds.
+
+i =
+
+     8
+
+The initial guess has relative residual 0.00084 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 18.253439 seconds.
+
+i =
+
+     9
+
+The initial guess has relative residual 0.00088 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 15.588498 seconds.
+
+i =
+
+    10
+
+pcg converged at iteration 22 to a solution with relative residual 0.00086.
+Elapsed time is 402.562136 seconds.
+
+i =
+
+    11
+
+The initial guess has relative residual 0.00088 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 17.897425 seconds.
+
+i =
+
+    12
+
+pcg converged at iteration 5 to a solution with relative residual 0.0009.
+Elapsed time is 117.661304 seconds.
+
+i =
+
+    13
+
+pcg converged at iteration 1 to a solution with relative residual 0.00088.
+Elapsed time is 49.082266 seconds.
+
+i =
+
+    14
+
+pcg converged at iteration 17 to a solution with relative residual 0.00083.
+Elapsed time is 310.243094 seconds.
+
+i =
+
+    15
+
+pcg converged at iteration 3 to a solution with relative residual 0.00089.
+Elapsed time is 82.710121 seconds.
+
+i =
+
+    16
+
+pcg converged at iteration 4 to a solution with relative residual 0.00081.
+Elapsed time is 96.396431 seconds.
+
+i =
+
+    17
+
+pcg converged at iteration 7 to a solution with relative residual 0.0005.
+Elapsed time is 147.210419 seconds.
+
+i =
+
+    18
+
+The initial guess has relative residual 0.00069 which is within
+the desired tolerance 0.0009 so pcg returned it without iterating.
+Elapsed time is 16.544778 seconds.
+
+i =
+
+    19
+
+pcg converged at iteration 7 to a solution with relative residual 0.00079.
+Elapsed time is 148.074655 seconds.
+
+i =
+
+    20
+
+pcg converged at iteration 6 to a solution with relative residual 0.0008.
+Elapsed time is 131.815076 seconds.
+
+i =
+
+    21
+
+pcg converged at iteration 4 to a solution with relative residual 0.00076.
+Elapsed time is 98.177002 seconds.
+
+i =
+
+    22
+
+pcg converged at iteration 3 to a solution with relative residual 0.0008.
+Elapsed time is 83.685609 seconds.
+
+i =
+
+    23
+
+pcg converged at iteration 3 to a solution with relative residual 0.00082.
+Elapsed time is 82.830166 seconds.
+
+i =
+
+    24
+
+pcg converged at iteration 3 to a solution with relative residual 0.00075.
+Elapsed time is 83.999783 seconds.
+
+i =
+
+    25
+
+pcg converged at iteration 3 to a solution with relative residual 0.00069.
+Elapsed time is 83.210354 seconds.
+
+i =
+
+    26
+
+pcg converged at iteration 3 to a solution with relative residual 0.00058.
+Elapsed time is 83.687612 seconds.
+
+i =
+
+    27
+
+pcg converged at iteration 2 to a solution with relative residual 0.00082.
+Elapsed time is 66.677880 seconds.
+
+i =
+
+    28
+
+pcg converged at iteration 2 to a solution with relative residual 0.0006.
+Elapsed time is 65.902588 seconds.
+
+i =
+
+    29
+
+pcg converged at iteration 2 to a solution with relative residual 0.00071.
+Elapsed time is 66.185657 seconds.
+
+i =
+
+    30
+
+pcg converged at iteration 2 to a solution with relative residual 0.00068.
+Elapsed time is 66.025036 seconds.
+
+i =
+
+    31
+
+pcg converged at iteration 2 to a solution with relative residual 0.00074.
+Elapsed time is 65.335776 seconds.
+
+i =
+
+    32
+
+pcg converged at iteration 2 to a solution with relative residual 0.00078.
+Elapsed time is 67.733970 seconds.
+
+i =
+
+    33
+
+pcg converged at iteration 2 to a solution with relative residual 0.00083.
+Elapsed time is 66.328107 seconds.
+
+i =
+
+    34
+
+pcg converged at iteration 2 to a solution with relative residual 0.00087.
+Elapsed time is 65.308222 seconds.
+
+i =
+
+    35
+
+pcg converged at iteration 1 to a solution with relative residual 0.00088.
+Elapsed time is 49.344011 seconds.
+
+i =
+
+    36
+
+pcg converged at iteration 3 to a solution with relative residual 0.00081.
+Elapsed time is 84.894739 seconds.
+
+i =
+
+    37
+
+pcg converged at iteration 1 to a solution with relative residual 0.0008.
+Elapsed time is 50.947797 seconds.
+
+i =
+
+    38
+
+pcg converged at iteration 1 to a solution with relative residual 0.00088.
+Elapsed time is 50.523259 seconds.
+
+i =
+
+    39
+
+pcg converged at iteration 5 to a solution with relative residual 0.00086.
+Elapsed time is 118.852825 seconds.
+
+i =
+
+    40
+
+pcg converged at iteration 1 to a solution with relative residual 0.0009.
+Elapsed time is 50.411394 seconds.
+>> 

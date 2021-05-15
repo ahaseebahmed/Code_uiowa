@@ -1,0 +1,26 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+{Invalid MEX-file
+'/Users/ahhmed/Downloads/gpuNUFFT-master/gpuNUFFT/@gpuNUFFT/private/mex_gpuNUFFT_precomp_f.mexa64':
+libcudart.so.9.1: cannot open shared object file: No such file or directory.
+
+Error in gpuNUFFT (line 104)
+[res.op.dataIndices,res.op.sectorDataCount,res.op.densSorted,res.op.coords,res.op.sectorCenters,res.op.sectorProcessingOrder,res.op.deapoFunction]
+= mex_gpuNUFFT_precomp_f(single(k)',single(w)',res.op.params);
+
+Error in coil_sens_map_NUFFT (line 11)
+    FT =
+    gpuNUFFT(ktraj_gpu/N,ones(nReadouts*nInterleaves*nFrames,1),osf,wg,sw,[N,N],[],true);
+    
+Error in spiralUV_mj_t1 (line 72)
+[csm,coilImages] = coil_sens_map_NUFFT(kdata,ktraj_scaled,N,useGPU);
+} 
+>> 

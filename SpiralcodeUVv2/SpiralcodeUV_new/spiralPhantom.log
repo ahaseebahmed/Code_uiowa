@@ -1,0 +1,108 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+
+sigma =
+
+     6
+
+
+lam =
+
+     3
+
+last cuda error: no error
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 57) has relative residual 8.7e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 66) has relative residual 4.1e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 62) has relative residual 7.3e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 64) has relative residual 5.2e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 57) has relative residual 9e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 61) has relative residual 9.8e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 68) has relative residual 1.1e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 65) has relative residual 1.3e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 58) has relative residual 0.0001.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 62) has relative residual 7.3e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 67) has relative residual 1.4e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 66) has relative residual 4e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 68) has relative residual 8e-06.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 68) has relative residual 1.2e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 65) has relative residual 1.5e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 69) has relative residual 8.9e-06.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 66) has relative residual 1.9e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 69) has relative residual 1.1e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 66) has relative residual 4.1e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 69) has relative residual 1.3e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 64) has relative residual 0.00015.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 66) has relative residual 5.2e-05.
+last cuda error: no error
+pcg stopped at iteration 50 without converging to the desired tolerance 1e-05
+because the maximum number of iterations was reached.
+The iterate returned (number 49) has relative residual 0.0013.
+Elapsed time is 741.931868 seconds.
+last cuda error: no error
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 54) has relative residual 8.3e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 66) has relative residual 3.8e-05.
+pcg stopped at iteration 70 without converging to the desired tolerance 1e-06
+because the maximum number of iterations was reached.
+The iterate returned (number 64) has relative residual 6.8e-05.
+last cuda error: no error
+pcg stopped at iteration 50 without converging to the desired tolerance 1e-05
+because the maximum number of iterations was reached.
+The iterate returned (number 50) has relative residual 0.0072.
+Elapsed time is 528.927135 seconds.
+>> 

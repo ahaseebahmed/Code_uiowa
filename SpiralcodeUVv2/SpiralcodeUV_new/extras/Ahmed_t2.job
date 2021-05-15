@@ -1,0 +1,7 @@
+#!/bin/bash
+#$ -N Ahmedt2
+#$ -o Ahmedt2log
+#$ -j Y
+#$ -q UI-GPU
+#$ -cwd
+/opt/apps/matlab/R2016b/bin/matlab -nodisplay -nodesktop -nojvm -r spiralUV_mj_t2

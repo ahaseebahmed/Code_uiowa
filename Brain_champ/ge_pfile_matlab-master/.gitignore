@@ -1,0 +1,11 @@
+*~
+*.html
+*.png
+*.h5
+*.7
+*.dat
+*.param
+*.txt*
+*.mex*
+*.pdf
+orchestra-sdk-*

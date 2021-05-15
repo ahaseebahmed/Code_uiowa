@@ -1,0 +1,7 @@
+#!/bin/bash
+#$ -N spiralUV
+#$ -o spiralUV
+#$ -j Y
+#$ -q CBIG
+#$ -cwd
+/opt/apps/matlab/R2016b/bin/matlab -nodisplay -nodesktop -nojvm -r spiralUV_mj_t1
